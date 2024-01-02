@@ -1,4 +1,6 @@
+<div align="right">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNamooJang"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNamooJang&countColor=%23263759" /></a>
+</div>
 
 <!--
 **NamooJang/NamooJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
