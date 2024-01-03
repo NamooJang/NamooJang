@@ -14,6 +14,7 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=nextjs">
   <img src="https://img.shields.io/badge/ReactQuery-grey?style=for-the-badge&logo=reactquery">
 </div>
 
