@@ -8,22 +8,18 @@
 
 ## 💻 STACK
 <div>
-  <img src="https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/css-grey?style=for-the-badge&logo=css3">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-3178C6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react">
-  <img src="https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=nextjs">
-  <img src="https://img.shields.io/badge/ReactQuery-grey?style=for-the-badge&logo=reactquery">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js">
+  <img src="https://img.shields.io/badge/ReactQuery-ef4444?style=for-the-badge&logo=reactquery&logoColor=white">
 </div>
 
 
-<!---
-<div align="center">  
-  <img src="https://streak-stats.demolab.com?user=Namoo&theme=vue&card_width=500&hide_longest_streak=true" alt="GitHub Streak" />
-</div>
 
---->
 
 
